@@ -34,7 +34,7 @@ export const CoreTeamMembers = [
         "avatar": "https://slmjev5tnh.ufs.sh/f/pA2QHWP8eSdnRzq35c4WkVlGtbiATNnfZ1PQDqah6wKeUOsM"
     },
     {
-        "name": "Saksham",
+        "name": "Saksham Dohare",
         "role": "Treasurer",
         "username": "_saksham__dohare_",
         "avatar": "https://slmjev5tnh.ufs.sh/f/pA2QHWP8eSdneU6sju59dLjSUVvaDPIsmRXZ6GznxkoNp0H2"
@@ -48,8 +48,8 @@ export const CoreTeamMembers = [
     {
         "name": "Rishi Kant",
         "role": "Videography Head",
-        "username": "rishikant___",
-        "avatar": "https://slmjev5tnh.ufs.sh/f/pA2QHWP8eSdns1vtxRZGMvJcSwgh8HxdNAY4EPltDaeGITfz"
+        "username": "rishikant______",
+        "avatar": "https://slmjev5tnh.ufs.sh/f/pA2QHWP8eSdnasCO5Ph5GUu9hN3K87cdasnXPCjt21xwWVb6"
     },
     {
         "name": "Manya Mangla",
