@@ -7,7 +7,7 @@ export const CoreTeamMembers = [
         "name": "Yuvraj Jindal",
         "role": "President",
         "username": "u_v.iii",
-        "avatar": "https://slmjev5tnh.ufs.sh/f/pA2QHWP8eSdnXAtxdsPOcRgnUyBzJs2WL4jXTNIS3xK71D8t"
+        "avatar": "https://slmjev5tnh.ufs.sh/f/pA2QHWP8eSdn2VaEnmRREQOjJFIBLgY5iHnZsCzbN7D3c4ma"
     },
     {
         "name": "Shubham Sagar",
@@ -19,7 +19,7 @@ export const CoreTeamMembers = [
         "name": "Dhruv Kalra",
         "role": "Vice-President",
         "username": "_dhruvkalra_",
-        "avatar": "https://4x46tcrofa.ufs.sh/f/CDGCKB4tyTIBeLKjf7Pb8Y1U7lH4I5FRGiAJte6rP0zCOpMn"
+        "avatar": "https://slmjev5tnh.ufs.sh/f/pA2QHWP8eSdnpAL3xXw8eSdncLj6mfDb84yw7pXZUW1zGiKM"
     },
     {
         "name": "Ishika Bhardwaj",
